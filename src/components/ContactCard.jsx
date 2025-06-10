@@ -9,7 +9,7 @@ export const ContactCard = (props) => {
             >
                 <div className="col-3 d-flex align-items-center justify-content-center m-3">
                     <img
-                        src="https://xsgames.co/randomusers/avatar.php?g=male"
+                        src="https://avatar.iran.liara.run/public/48"
                         className="rounded-circle img-fluid user-picture py-1 h-25 "
                         alt="contact"
                     />
